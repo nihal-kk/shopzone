@@ -33,3 +33,19 @@
     object-fit: contain;
     margin-bottom: 10px;
   }
+  #add{
+    background-color: #1f9c00;
+    width: 150px;
+    border-radius: 5px;
+    color: #fff;
+  }
+  .btn{
+    text-align: center;
+
+  }
+
+  #cacar{
+    background-color: orange;
+    border-radius: 10px;
+    color: #fff;
+  }
